@@ -1,4 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-Creating a new branch test.
-dev add 2
+Git brach test
